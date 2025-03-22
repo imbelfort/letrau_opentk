@@ -10,9 +10,9 @@ namespace LetraU
     {
         static void Main(string[] args)
         {
-            using (var game = new Game(800, 640)) // Crea una instancia de la clase Game
+            using (var game = new Game(800, 640)) 
             {
-                game.Run(60.0); // Ejecuta la aplicación de juego
+                game.Run(60.0); 
             }
         }
     }

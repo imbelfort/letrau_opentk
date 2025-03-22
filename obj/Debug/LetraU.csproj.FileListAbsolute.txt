@@ -20,3 +20,14 @@ C:\Users\Ishmael\Downloads\LetraU\LetraU\obj\Debug\LetraU.csproj.CoreCompileInpu
 C:\Users\Ishmael\Downloads\LetraU\LetraU\obj\Debug\LetraU.csproj.CopyComplete
 C:\Users\Ishmael\Downloads\LetraU\LetraU\obj\Debug\LetraU.exe
 C:\Users\Ishmael\Downloads\LetraU\LetraU\obj\Debug\LetraU.pdb
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\bin\Debug\LetraU.exe.config
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\bin\Debug\LetraU.exe
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\bin\Debug\LetraU.pdb
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\bin\Debug\OpenTK.dll
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\bin\Debug\OpenTK.pdb
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\bin\Debug\OpenTK.xml
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\obj\Debug\LetraU.csproj.AssemblyReference.cache
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\obj\Debug\LetraU.csproj.CoreCompileInputs.cache
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\obj\Debug\LetraU.csproj.CopyComplete
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\obj\Debug\LetraU.exe
+C:\Users\Ishmael\Documents\GitHub\letrau_opentk\obj\Debug\LetraU.pdb
